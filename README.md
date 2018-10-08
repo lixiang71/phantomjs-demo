@@ -22,6 +22,6 @@
   编辑 `test.js`，找到变量 `url`，修改为你想测的页面路径，`api` 是拦截对话的接口路径，比如：
   ```
     // 测试页面url
-    var url = "http://10.84.62.99:8080/MideaDialogue/";
-    var api = "http://10.84.62.99:8080/MideaDialogue/Midea/dialogue";
+    var url = "http://xx.xx.xx.xx:8080/xxxx/";
+    var api = "http://xx.xx.xx.xx:8080/xxxx/dialogue";
   ```
